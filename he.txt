@@ -1,4 +1,0 @@
-add 1
-sth
-hello
-addmore
